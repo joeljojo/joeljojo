@@ -6,5 +6,5 @@
 - 🌱 I’m currently learning Cloud Technologies and DSA, 
 
 ---
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joeljojo&show_icons=true&theme=radical)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=joeljojo&theme=dark)](https://git.io/streak-stats)
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=joeljojo&show_icons=true&theme=radical"/>
+<img align="left" width=47%" src="https://streak-stats.demolab.com/?user=joeljojo&theme=dark"/>
